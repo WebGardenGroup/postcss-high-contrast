@@ -1,5 +1,10 @@
 Original plugin: [PostCSS High Contrast](https://github.com/shiwaforce/postcss-high-contrast)
 
+## Installation
+```bash
+$ npm install --sav-dev postcss @webgarden/postcss-high-contrast
+```
+
 ## Basic Usage
 
 ```js
