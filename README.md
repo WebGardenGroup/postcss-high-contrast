@@ -4,7 +4,7 @@ Original plugin: [PostCSS High Contrast](https://github.com/shiwaforce/postcss-h
 
 ```js
 postcss([
-  require('postcss-high-contrast')({
+  require('@webgarden/postcss-high-contrast')({
     aggressiveHC: true,
     aggressiveHCDefaultSelectorList: ['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'p', 'li', 'th', 'td'],
     aggressiveHCCustomSelectorList: ['div', 'span'],
